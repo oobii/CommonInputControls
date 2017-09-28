@@ -264,7 +264,7 @@
 				DEVELOPMENT_TEAM = 7YPNN524J3;
 				INFOPLIST_FILE = CommonInputControls/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.CommonInputControls;
+				PRODUCT_BUNDLE_IDENTIFIER = my.CommonInputControls;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -277,7 +277,7 @@
 				DEVELOPMENT_TEAM = 7YPNN524J3;
 				INFOPLIST_FILE = CommonInputControls/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.CommonInputControls;
+				PRODUCT_BUNDLE_IDENTIFIER = my.CommonInputControls;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
